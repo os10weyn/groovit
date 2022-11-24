@@ -10,7 +10,7 @@ function MPlayer() {
     {
     title: "Ain't It Fun",
     artist: "Paramore",
-    img_src: "./js/playercomponents/images/song-1.jpg",
+    img_src: "./images/song-2.jpg",
     src: "./music/song-2.mp3"
     },
     {
